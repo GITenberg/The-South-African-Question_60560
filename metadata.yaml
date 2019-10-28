@@ -1,0 +1,24 @@
+_repo: The-South-African-Question_60560
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Schreiner, Olive
+    alias: Iron, Ralph
+    birthdate: 1855
+    deathdate: 1920
+    gutenberg_agent_id: '632'
+    url: http://www.gutenberg.org/2009/agents/632
+    wikipedia: http://en.wikipedia.org/wiki/Olive_Schreiner
+description: ''
+gutenberg_issued: '2019-10-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60560'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The South African Question
+url: http://www.gutenberg.org/ebooks/60560
